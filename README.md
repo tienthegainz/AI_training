@@ -1,3 +1,3 @@
 # AI_training
-### Visual analytic file: .ipnyb file
+### Visual analytic file: .ipynb file
 ### OOP style optimization algorithm file: .py file
